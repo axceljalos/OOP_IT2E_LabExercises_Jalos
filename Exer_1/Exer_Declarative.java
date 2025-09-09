@@ -8,7 +8,7 @@ public class Exer_Declarative {
 
             System.out.println("Declarative Programming");
 
-            System.out.println("Count of even numbers = " + countOfeven);
+            System.out.println("Count of EVEN numbers = " + countOfeven);
         
 
     }
