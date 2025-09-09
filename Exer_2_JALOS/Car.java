@@ -1,13 +1,11 @@
 public class Car {
-
-    public static void main (String[] args){
-        Car c1 = new Car (color = "Blue", plateN0 = "ATJ996", 
-            chassisNo = "DYR06" );
-
-        Car c2 = new Car();
-
-        c1.displayInfo();
-        c2.displayInfo();
+    public static void main (String[] args) {
+        
+    }
+    public Car(){
+        this.color = "No Color";
+        this.plateNo = "No PlateNo";
+        this.chassisNo = "No ChassisNo";
     }
 
     public Car(String color, String plateNo, String chassisNo){
@@ -21,5 +19,6 @@ public class Car {
         info += "Color: " + this.color;
         info += "PlateNo: " + this.plateNo;
         info += "ChassisNo: " + this.chassisNo;
+        System.out.println(info);
     }
 }
