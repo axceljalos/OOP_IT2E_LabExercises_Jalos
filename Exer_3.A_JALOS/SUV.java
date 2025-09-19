@@ -3,3 +3,4 @@ public class SUV extends LandTransport {
         super("SUV", 7);
     }
 }
+ 

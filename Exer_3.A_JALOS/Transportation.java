@@ -15,4 +15,4 @@ public class Transportation {
         System.out.println("Name: " + name + ", Capacity: " + capacity);
     }
 }
-
+ 

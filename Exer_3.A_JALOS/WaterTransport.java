@@ -6,4 +6,4 @@ public class WaterTransport extends Transportation {
     public void move() {
         System.out.println(name + " is sailing on the water!");
     }
-}
+} 

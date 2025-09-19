@@ -7,4 +7,4 @@ public class LandTransport extends Transportation {
     public void move() {
         System.out.println(name + " is moving on the road!");
     }
-}
+} 

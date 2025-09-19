@@ -14,7 +14,7 @@ public class TransportationTester {
         // For Water Transport
         Transportation ship = new Ship();
         Transportation submarine = new Submarine();
-
+ 
         // Tanan ni...
         Transportation[] transports = {
             airplane, helicopter, truck, suv, tricycle, motorcycle, kariton, ship, submarine

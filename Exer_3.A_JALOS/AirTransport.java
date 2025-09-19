@@ -7,4 +7,4 @@ public class AirTransport extends Transportation {
     public void move() {
         System.out.println(name + " is flying in the sky!");
     }
-}
+} 
